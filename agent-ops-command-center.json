@@ -6,6 +6,8 @@
   "team_license_price_usd": 203,
   "target_revenue_usd": 200,
   "compliance_evidence_template": "https://ivelly42.github.io/ai-agent-compliance-evidence-template/COMPLIANCE_EVIDENCE_TEMPLATE.md",
+  "primary_request_url": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
+  "checkout_status": "https://ivelly42.github.io/agent-ops-command-center/checkout-status.json",
   "buyer_search_terms": [
     "AI agent compliance evidence",
     "Codex compliance evidence template",

@@ -8,6 +8,8 @@ Use this public preview to gather AI-agent compliance evidence before buying the
 | --- | --- |
 | Evidence packet name |  |
 | Agent / tool | Codex / Claude Code / Cursor / local agent |
+| Primary team request URL | https://ivelly42.github.io/agent-ops-command-center/team-request-url.html |
+| Checkout status | https://ivelly42.github.io/agent-ops-command-center/checkout-status.json |
 | Business owner |  |
 | Technical owner |  |
 | Compliance / security owner |  |
@@ -130,6 +132,14 @@ Use this public preview to gather AI-agent compliance evidence before buying the
 ## Request The Full Pack
 
 Fast template-pack request page:
+
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
+Checkout status:
+
+https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+
+Supporting template-pack request page:
 
 https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
 
